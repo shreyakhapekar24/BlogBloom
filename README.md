@@ -70,3 +70,26 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 The BlogBloom gives you the following privileges:
 
 # User Privileges
+
+1. Secure Login: Users can securely log in to the platform, benefiting from robust login mechanisms and middleware protection.
+2. Registration: New users can easily register for an account.
+3. Read Others' Blogs: Users can explore and read blog posts from other members of the community.
+4. Create Blogs: Users have the ability to craft and publish their own blog posts.
+5. Manage Personal Blogs: Users can view and update their own blog posts and even delete them when necessary.
+6. Contact: Users can send queries or messages to administrators for assistance.
+7. Post Status: Users can submit blog posts for review, and these posts remain in a "Pending" status until approved by administrators.
+
+
+# Admin Privileges
+
+1. Read Others' Blogs: Administrators have the authority to read all blog posts published on the platform.
+2. Create Blogs: Administrators can contribute their own blog posts.
+3. Manage Personal Blogs: Administrators, like users, can update and delete their own blog posts.
+4. Contact: Administrators can be reached by users through queries or messages.
+5. Approve/Reject Posts: Administrators can review pending blog posts and either approve them for publication or reject them.
+6. View All Posts: Administrators have access to all posts, including pending, active, and rejected ones.
+7. Delete and Edit Posts: Administrators possess the power to edit and delete not only their own posts but also posts from other users.
+
+
+
+BlogBloom is a full-stack project using the Laravel framework, making it easy for users to share their ideas, while administrators can maintain a safe and high-quality blogging environment.
