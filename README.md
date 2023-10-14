@@ -93,6 +93,7 @@ After clicking Read More button:
 
 
 
+
 ![Screenshot (315)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/eb7d80eb-7995-4c3c-9c5f-92acddb4bf21)
 
 
@@ -104,6 +105,7 @@ After clicking Read More button:
 
 
 After clicking Read More button: 
+
 
 
 
@@ -178,6 +180,24 @@ Profile:
 5. Approve/Reject Posts: Administrators can review pending blog posts and either approve them for publication or reject them.
 6. View All Posts: Administrators have access to all posts, including pending, active, and rejected ones.
 7. Delete and Edit Posts: Administrators possess the power to edit and delete not only their own posts but also posts from other users.
+
+
+
+
+![Screenshot (333)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/0bf31006-c77f-497a-beac-3ef08b2832bc)
+
+
+
+
+![Screenshot (328)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/1b5cba7f-9fd6-4965-a92b-6e89e66cb057)
+
+
+
+
+![Screenshot (332)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/56784162-7b9f-46d5-9282-25f7522833e3)
+
+
+
 
 
 BlogBloom is a full-stack project using the Laravel framework, making it easy for users to share their ideas, while administrators can maintain a safe and high-quality blogging environment. It empowers both bloggers and readers by offering a user-friendly interface with a rich set of features. Join us in the BlogBloom community and start sharing your thoughts or exploring the world of blogging today!
