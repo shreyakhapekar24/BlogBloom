@@ -91,5 +91,12 @@ The BlogBloom gives you the following privileges:
 7. Delete and Edit Posts: Administrators possess the power to edit and delete not only their own posts but also posts from other users.
 
 
+# Guest Privileges
 
-BlogBloom is a full-stack project using the Laravel framework, making it easy for users to share their ideas, while administrators can maintain a safe and high-quality blogging environment.
+1. Read Others' Blogs: Visitors who haven't logged in can still explore the blog content on the platform.
+2. About Section: Guests can access the 'About' section for more information.
+3. Registration: New users can quickly register to gain full access to BlogBloom.
+4. Contact: Even without an account, guests can send messages and queries to administrators.
+5. Creating Posts: To create their own posts, they can register if they're new users or simply log in if they have an existing account.
+
+BlogBloom is a full-stack project using the Laravel framework, making it easy for users to share their ideas, while administrators can maintain a safe and high-quality blogging environment. It empowers both bloggers and readers by offering a user-friendly interface with a rich set of features. Join us in the BlogBloom community and start sharing your thoughts or exploring the world of blogging today!
