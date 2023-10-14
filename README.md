@@ -69,6 +69,65 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 The BlogBloom gives you the following privileges:
 
+
+# Guest Privileges
+
+1. Read Others' Blogs: Visitors who haven't logged in can still explore the blog content on the platform.
+2. About Section: Guests can access the 'About' section for more information.
+3. Registration: New users can quickly register to gain full access to BlogBloom.
+4. Contact: Even without an account, guests can send messages and queries to administrators.
+5. Creating Posts: To create their own posts, they can register if they're new users or simply log in if they have an existing account.
+
+
+
+
+![Screenshot (313)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/e0b09da1-f309-4da0-b6ce-367a69fc0567)
+
+
+
+![Screenshot (314)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/2d8f857e-8eee-40ed-ad4c-3afc00a9ccbf)
+
+
+
+After clicking Read More button: 
+
+
+
+![Screenshot (315)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/eb7d80eb-7995-4c3c-9c5f-92acddb4bf21)
+
+
+
+
+![Screenshot (316)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/40e7d29b-b678-419e-9979-539b3bed8c81)
+
+
+
+
+After clicking Read More button: 
+
+
+
+![Screenshot (317)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/2310cefd-8b3e-46e6-85fe-615e03065f2a)
+
+
+
+
+
+Login and Register: 
+
+
+
+
+![Screenshot (319)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/a29af63b-34c5-4802-a92a-2a6625bf0ecc)
+
+
+
+
+![Screenshot (320)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/9e37e1ad-8114-49df-9428-a86c0e189bb6)
+
+
+
+
 # User Privileges
 
 1. Secure Login: Users can securely log in to the platform, benefiting from robust login mechanisms and middleware protection.
@@ -78,6 +137,36 @@ The BlogBloom gives you the following privileges:
 5. Manage Personal Blogs: Users can view and update their own blog posts and even delete them when necessary.
 6. Contact: Users can send queries or messages to administrators for assistance.
 7. Post Status: Users can submit blog posts for review, and these posts remain in a "Pending" status until approved by administrators.
+
+
+
+
+![Screenshot (331)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/2ad36505-ec6b-4ed7-a7b7-b5341e046a98)
+
+
+
+
+After Clicking Update Button:
+
+
+
+
+![Screenshot (324)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/8a3f5f0d-9d2c-4f1a-9c01-026c5fd775a2)
+
+
+
+
+![Screenshot (323)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/399b9ff8-cd30-4f31-af7a-63d795402745)
+
+
+
+
+Profile: 
+
+
+
+
+![Screenshot (325)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/2f5a518c-e699-4470-82ac-750078862a61)
 
 
 # Admin Privileges
@@ -90,13 +179,5 @@ The BlogBloom gives you the following privileges:
 6. View All Posts: Administrators have access to all posts, including pending, active, and rejected ones.
 7. Delete and Edit Posts: Administrators possess the power to edit and delete not only their own posts but also posts from other users.
 
-
-# Guest Privileges
-
-1. Read Others' Blogs: Visitors who haven't logged in can still explore the blog content on the platform.
-2. About Section: Guests can access the 'About' section for more information.
-3. Registration: New users can quickly register to gain full access to BlogBloom.
-4. Contact: Even without an account, guests can send messages and queries to administrators.
-5. Creating Posts: To create their own posts, they can register if they're new users or simply log in if they have an existing account.
 
 BlogBloom is a full-stack project using the Laravel framework, making it easy for users to share their ideas, while administrators can maintain a safe and high-quality blogging environment. It empowers both bloggers and readers by offering a user-friendly interface with a rich set of features. Join us in the BlogBloom community and start sharing your thoughts or exploring the world of blogging today!
