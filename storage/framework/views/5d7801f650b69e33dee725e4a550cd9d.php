@@ -1,0 +1,1 @@
+<h1>Admin Post Page</h1><?php /**PATH C:\xampp\htdocs\blogbloom\resources\views/post.blade.php ENDPATH**/ ?>
