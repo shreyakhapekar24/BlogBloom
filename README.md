@@ -85,7 +85,9 @@ The BlogBloom gives you the following privileges:
 
 
 
+
 ![Screenshot (314)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/2d8f857e-8eee-40ed-ad4c-3afc00a9ccbf)
+
 
 
 
@@ -169,6 +171,8 @@ Profile:
 
 
 ![Screenshot (325)](https://github.com/shreyakhapekar24/BlogBloom/assets/97623859/2f5a518c-e699-4470-82ac-750078862a61)
+
+
 
 
 # Admin Privileges
