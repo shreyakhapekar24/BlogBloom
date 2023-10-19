@@ -205,3 +205,4 @@ Profile:
 
 
 BlogBloom is a full-stack project using the Laravel framework, making it easy for users to share their ideas, while administrators can maintain a safe and high-quality blogging environment. It empowers both bloggers and readers by offering a user-friendly interface with a rich set of features. Join us in the BlogBloom community and start sharing your thoughts or exploring the world of blogging today!
+
