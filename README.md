@@ -91,7 +91,7 @@ The BlogBloom gives you the following privileges:
 
 
 
-After clicking Read More button: 
+## After clicking Read More button: 
 
 
 
@@ -106,7 +106,7 @@ After clicking Read More button:
 
 
 
-After clicking Read More button: 
+## After clicking Read More button: 
 
 
 
@@ -117,7 +117,7 @@ After clicking Read More button:
 
 
 
-Login and Register: 
+## Login and Register: 
 
 
 
@@ -150,7 +150,7 @@ Login and Register:
 
 
 
-After Clicking Update Button:
+## After Clicking Update Button:
 
 
 
@@ -165,7 +165,7 @@ After Clicking Update Button:
 
 
 
-Profile: 
+## Profile: 
 
 
 
